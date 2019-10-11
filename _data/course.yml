@@ -1,5 +1,5 @@
-title: Course in a Box
-description: Build Your Very Own Open Course
+title: ZUGFeRD, Factur-X and XRechnung: hybrid and structured electronic invoices
+description: What are hybrid, unstructured and structured electronic invoices, how to create and validate ZUGFeRD 2/Factur-X 1 files and how that relates to XRechnung
 modules: [tutorial, resources, references]
 signups:
  - name: Geert Hofman
