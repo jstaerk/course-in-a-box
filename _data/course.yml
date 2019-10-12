@@ -1,6 +1,6 @@
 title: ZUGFeRD, Factur-X and XRechnung - hybrid and structured electronic invoices
 description: What are hybrid, unstructured and structured electronic invoices, how to create and validate ZUGFeRD 2/Factur-X 1 files and how that relates to XRechnung
-modules: [tutorial, resources, references]
+modules: [introduction, tutorial, resources, references]
 signups:
  - name: Geert Hofman
    image: https://media.licdn.com/media/p/3/000/1b0/2c9/2daad0c.jpg
